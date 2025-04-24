@@ -1,0 +1,21 @@
+Comentario,Sentiment
+"Me encanta este producto, es increíble",1
+"Excelente servicio, superó mis expectativas",1
+"Estoy muy feliz con mi compra, lo recomiendo",1
+"No puedo estar más satisfecho, maravilloso",1
+"La calidad es excepcional, estoy muy contento",1
+"Buena atención al cliente, resolvieron mi problema rápidamente",1
+"Muy fácil de usar, cumple perfectamente su función",1
+"La entrega fue rápida y sin problemas, gran experiencia",1
+"Totalmente vale la pena el precio, excelente calidad",1
+"Un producto fantástico, justo lo que necesitaba",1
+"Es una basura, no funciona como esperaba",0
+"Pesima experiencia, me arrepiento de haberlo comprado",0
+"Demasiado caro para lo que ofrece, una decepción",0
+"La atención al cliente fue horrible, no solucionaron mi problema",0
+"El material se siente barato, muy mala calidad",0
+"Funciona mal, se traba todo el tiempo",0
+"El envío tardó demasiado, no cumplen con los tiempos",0
+"No recomiendo este producto, muy decepcionado",0
+"Lo probé y me falló en menos de una semana",0
+"Simplemente no vale la pena, pésimo",0
