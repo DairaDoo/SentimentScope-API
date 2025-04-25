@@ -2,7 +2,10 @@
 
 **SentimentScope** es una API de análisis de sentimientos que determina si un texto expresa un sentimiento positivo o negativo. Utilizando técnicas de Machine Learning, esta herramienta clasifica automáticamente comentarios, reviews y otros textos en español.
 
-![SentimentScope Banner](img/sentiment_scope_logo.png)
+<p align="center">
+  <img src="/img/sentiment_scope_logo.png" alt="SentimentScope Banner" width="600"/>
+</p>
+
 
 ## 📊 ¿Qué hace?
 
