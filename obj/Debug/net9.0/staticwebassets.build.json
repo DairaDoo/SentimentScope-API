@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "NDOjgatgeQoYxK+1xEwipPPvx5vziVYUuYowERgzypQ=",
+  "Source": "SentimentScopeAPI",
+  "BasePath": "_content/SentimentScopeAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
