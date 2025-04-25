@@ -93,8 +93,6 @@ http://localhost:5268/swagger
 3. **Aprendizaje**: El algoritmo identifica patrones asociados a sentimientos
 4. **Predicción**: Ante nuevos textos, clasifica su sentimiento
 
-![Diagrama de funcionamiento](https://via.placeholder.com/800x400?text=Diagrama+de+Flujo:+Texto+→+Vectorización+→+Predicción)
-
 ## 🧪 Conjunto de datos
 
 El modelo se entrena con una colección de comentarios etiquetados como positivos (`true`) o negativos (`false`).
@@ -108,30 +106,13 @@ El servicio fue terrible,false
 
 ## 👨‍💻 Sobre mí
 
-Soy un desarrollador que está comenzando a explorar el fascinante mundo de la Inteligencia Artificial. Este proyecto representa mi primer acercamiento práctico a la implementación de técnicas de ML en aplicaciones reales. Elegí .NET Core como plataforma debido a su robustez y la integración nativa con ML.NET, lo que me permite crear soluciones de IA sin necesidad de cambiar de ecosistema de desarrollo.
+Soy un desarrollador que está comenzando a explorar el fascinante mundo de la AI, justo estoy tomando el curso de AI practitioner y quería hacer una implementación práctica con algo simple. Este proyecto representa mi primer acercamiento práctico a la implementación de técnicas de ML en aplicaciones reales. Elegí .NET Core como plataforma debido a su robustez y la integración nativa con ML.NET, lo que me permite crear soluciones de IA sin necesidad de cambiar de ecosistema de desarrollo.
 
 ## 📚 Recursos de aprendizaje
 
 - [Documentación oficial de ML.NET](https://learn.microsoft.com/en-us/dotnet/machine-learning/)
 - [Tutoriales de análisis de sentimientos](https://learn.microsoft.com/en-us/dotnet/machine-learning/tutorials/sentiment-analysis)
-- [Curso de Machine Learning con .NET](https://dotnet.microsoft.com/learn/ml-dotnet)
 
 ## 📄 Licencia
 
 Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
-
----
-
-### 🤝 Contribuciones
-
-¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar este proyecto:
-
-1. Haz fork del repositorio
-2. Crea una rama para tu característica (`git checkout -b feature/amazing-feature`)
-3. Haz commit de tus cambios (`git commit -m 'Add some amazing feature'`)
-4. Push a la rama (`git push origin feature/amazing-feature`)
-5. Abre un Pull Request
-
----
-
-**SentimentScope** | Desarrollado con 💙 y ML.NET
