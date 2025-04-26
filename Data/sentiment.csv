@@ -1,16 +1,58 @@
 Comment,Sentiment
-"La calidad de imagen es extraordinadamente nítida",true
+"Me siento muy feliz hoy",true
+"Estoy triste por lo que pasó",false
+"No puedo soportar estar cerca de ti",false
+"La calidad de imagen es extraordinariamente nítida",true
 "Los colores se ven lavados y sin contraste",false
+"Me encanta cómo me veo en esta foto",true
+"Te amo con todo mi corazon",true
+"Me veo terrible en esa imagen",false
+"Este ha sido el mejor día de mi vida",true
+"Hoy ha sido un día horrible",false
+"Gracias por tu ayuda me salvaste",true
+"No me ayudaste cuando te necesitaba",false
+"La comida estaba deliciosa",true
+"La comida sabía horrible",false
+"Me siento bien conmigo mismo",true
+"Me siento muy inseguro últimamente",false
+"Estoy muy orgulloso de mis logros",true
+"Me siento como un fracaso total",false
 "El reconocimiento facial funciona incluso con poca luz",true
 "La cámara frontal produce fotos borrosas",false
 "Respuesta inmediata del servicio de garantía",true
 "Tardaron semanas en procesar mi devolución",false
+"Qué alegría verte de nuevo",true
+"Preferiría no volver a verte",false
+"El concierto fue increíble",true
+"El concierto fue una pérdida de tiempo",false
+"Me encanta esta nueva canción",true
+"Esta canción es insoportable",false
+"Estoy emocionado por el viaje",true
+"No quiero ir a ese lugar",false
+"Tienes un gran sentido del humor",true
+"Tus chistes no dan gracia",false
+"Tu presentación fue impresionante",true
+"Tu presentación fue aburrida",false
+"Me hiciste sonreír",true
+"Me hiciste llorar de tristeza",false
+"Estoy agradecido por esta oportunidad",true
+"Esta oportunidad es una pérdida de tiempo",false
+"La película me encantó",true
+"La película fue terrible",false
 "Interfaz personalizable según necesidades",true
 "Opciones de configuración muy limitadas",false
 "Sincronización perfecta con la nube",true
 "Pérdida frecuente de datos en la nube",false
 "Audio cristalino en llamadas y música",true
 "Sonido distorsionado a volumen alto",false
+"Me alegra mucho verte progresar",true
+"Me entristece ver que no avanzas",false
+"Eres una persona maravillosa",true
+"Eres una persona terrible",false
+"Este libro cambió mi vida para bien",true
+"Este libro fue una completa pérdida de tiempo",false
+"El profesor explica de manera clara y comprensible",true
+"El profesor hace que todo sea confuso",false
 "Resistente a golpes y caídas",true
 "Se rayó la pantalla con uso normal",false
 "Compatible con todos los accesorios modernos",true
@@ -21,245 +63,201 @@ Comment,Sentiment
 "Almacenamiento interno insuficiente",false
 "Excelente optimización de recursos",true
 "Consume demasiada RAM en reposo",false
-"Sensor de huellas preciso y rápido",true
-"Falla el desbloqueo biométrico constantemente",false
-"Actualizaciones de seguridad mensuales",true
-"Sin parches de seguridad desde la compra",false
-"Pantalla visible bajo luz solar directa",true
-"Imposible ver la pantalla en exteriores",false
-"Integración perfecta con el ecosistema",true
-"Problemas de compatibilidad con otras apps",false
-"Modo nocturno ajustable automáticamente",true
-"La luz azul causa fatiga visual",false
-"Excelente sistema de refrigeración",true
-"Se sobrecalienta con apps básicas",false
-"GPS preciso en zonas urbanas y rurales",true
-"Señal de ubicación inestable",false
-"Filtros de spam efectivos",true
-"Bandeja de entrada llena de correo basura",false
-"Respaldo automático configurable",true
-"Pérdida de archivos en las copias de seguridad",false
-"Traducción en tiempo real precisa",true
-"Errores graves en las traducciones automáticas",false
-"Control parental intuitivo",true
-"Configuración de seguridad complicada",false
-"Optimización automática del rendimiento",true
-"Requiere reinicos frecuentes para funcionar",false
-"Asistente virtual multilingüe",true
-"No reconoce comandos de voz básicos",false
-"La batería dura más de dos días con uso intensivo",true
-"Se apaga inesperadamente con batería al 50%",false
-"Actualización de software mejoró el rendimiento notablemente",true
-"La última actualización introdujo errores graves",false
-"Atención al cliente rápida y eficiente",true
-"Soporte técnico difícil de contactar y poco resolutivo",false
-"Diseño ergonómico que facilita el uso prolongado",true
-"Diseño incómodo para sesiones largas de uso",false
-"Función de detección de rostros precisa y confiable",true
-"El sensor táctil no responde ocasionalmente",false
-"Amplia variedad de opciones de personalización de la interfaz",true
-"La interfaz es confusa y poco intuitiva",false
-"Puerto de carga y transferencia de datos resistente al uso diario",true
-"El cable de carga se calienta demasiado",false
-"Bluetooth se conecta al instante sin pérdidas",true
-"Bluetooth pierde la conexión frecuentemente",false
-"La calidad de audio en música es envolvente",true
-"Los agudos se escuchan claros y sin distorsión",true
-"El bajo es profundo y equilibrado",true
-"La salida de auriculares no tiene ruido de fondo",true
-"La calidad de audio en llamadas es excepcional",true
-"El sonido de los altavoces suena metálico",false
-"Hay crujidos al subir el volumen",false
-"La calidad de audio pierde nitidez al nivel medio",false
-"Se oyen ecos al usar el manos libres",false
-"El volumen máximo es demasiado bajo",false
-"La cancelación de ruido bloquea eficazmente el sonido exterior",true
-"Se aprecia silencio total en ambientes ruidosos",true
-"La función ANC es muy efectiva",true
-"El modo de ambiente ajusta correctamente la filtración",true
-"La tecnología de reducción de ruido funciona sin latencia",true
-"La cancelación de ruido es casi inexistente",false
-"El ruido ambiental se cuela constantemente",false
-"El ANC introduce un zumbido molesto",false
-"La función de silencio no reduce nada",false
-"El modo de ambiente distorsiona el sonido",false
-"El micrófono capta mi voz con claridad incluso a distancia",true
-"La reducción de ruido en el micrófono es muy buena",true
-"Mis llamadas se escuchan limpias y sin interferencias",true
-"El micrófono integrado filtra el viento perfectamente",true
-"La captación de sonido es consistente en todos los rangos de volumen",true
-"El micrófono capta demasiado eco",false
-"La captura de voz se vuelve ininteligible al hablar bajo",false
-"Hay ruido estático durante las llamadas",false
-"El micrófono no amplifica mi voz correctamente",false
-"El audio se distorsiona al usar videollamadas",false
-"La resolución de la pantalla es muy alta y detallada",true
-"El brillo máximo permite ver sin problemas al aire libre",true
-"Los colores son vibrantes y realistas",true
-"La tasa de refresco es fluida en juegos y videos",true
-"El contraste es excelente para contenido HDR",true
-"La pantalla parpadea al ajustar el brillo",false
-"Los reflejos dificultan la visualización en exteriores",false
-"El color blanco tiene un tono amarillento",false
-"La resolución baja reduce la nitidez de texto",false
-"La velocidad de refresco se queda corta en desplazamientos",false
-"La pantalla táctil responde sin retrasos",true
-"El reconocimiento de gestos es preciso",true
-"La interfaz detecta múltiples toques simultáneos",true
-"La sensibilidad táctil se adapta bien a diferentes presiones",true
-"El deslizamiento de menús es suave",true
-"La pantalla táctil no detecta el primer toque",false
-"Surgen toques fantasma al usar el dispositivo",false
-"La respuesta táctil es desigual en los bordes",false
-"Los gestos no se reconocen constantemente",false
-"Se pierden toques al deslizar rápidamente",false
-"La batería mantiene carga óptima durante todo el día",true
-"El modo de ahorro extiende la autonomía significativamente",true
-"No hay drenaje excesivo en segundo plano",true
-"La capacidad de la batería cumple con lo prometido",true
-"La degradación de la batería es mínima tras meses de uso",true
-"La batería se descarga rápidamente en reposo",false
-"La estimación de tiempo restante es imprecisa",false
-"El dispositivo muere sin aviso cuando queda baja carga",false
-"La capacidad real de la batería es inferior a lo anunciado",false
-"La batería se sobrecalienta durante la carga",false
-"La carga inalámbrica funciona sin inconvenientes",true
-"El cargador incluido llena la batería en tiempo récord",true
-"El puerto admite carga rápida de 65W",true
-"No hay pérdida de energía al usar dispositivos mientras carga",true
-"La carga inversa permite recargar otros aparatos sin problema",true
-"El cable de carga se suelta con facilidad",false
-"La carga rápida no funciona con el adaptador incluido",false
-"El puerto USB muestra corrosión tras poco uso",false
-"La carga inalámbrica es muy lenta",false
-"El indicador de carga parpadea erráticamente",false
-"Las aplicaciones se abren al instante",true
-"No hay cierres inesperados al ejecutar apps pesadas",true
-"El procesamiento de datos es muy rápido",true
-"La navegación entre apps es fluida",true
-"El dispositivo maneja multitarea sin pestañear",true
-"Las apps tardan en iniciarse",false
-"Frecuentes bloqueos al usar aplicaciones intensivas",false
-"Retrasos al cambiar entre aplicaciones",false
-"El sistema se congela al abrir varias apps",false
-"Se experimenta lag al correr software exigente",false
-"Puedo mantener abiertas múltiples ventanas sin ralentización",true
-"El sistema gestiona bien más de 10 pestañas activas",true
-"La transición entre tareas es instantánea",true
-"La memoria se distribuye eficientemente en multitarea",true
-"El cambio de aplicaciones en segundo plano es rápido",true
-"Se nota retraso al alternar entre tareas",false
-"El dispositivo pierde datos al cambiar de app",false
-"Las aplicaciones en segundo plano se cierran sin aviso",false
-"La administración de memoria es deficiente",false
-"Experimenta lag cuando hay muchas tareas abiertas",false
-"La conexión Wi-Fi es estable incluso a distancia",true
-"El salto entre bandas 4G y 5G es rápido y sin caídas",true
-"El Bluetooth empareja sin contratiempos",true
-"La señal NFC funciona para pagos sin errores",true
-"El modo avión desactiva e inicia las antenas inmediatamente",true
-"La señal Wi-Fi se pierde con muros delgados",false
-"El 5G solo funciona en zonas puntuales",false
-"El Bluetooth se desconecta al mínimo movimiento",false
-"El NFC falla al realizar pagos rápidos",false
-"La conmutación de redes es muy lenta",false
-"El sistema operativo funciona sin errores críticos",true
-"No hay interrupciones de servicio tras la última actualización",true
-"Las actualizaciones llegan de forma oportuna",true
-"El software nativo es estable y confiable",true
-"No he sufrido pérdidas de datos por crashes",true
-"El sistema se reinicia solo en ocasiones",false
-"Las actualizaciones introducen fallos nuevos",false
-"El software nativo es demasiado básico",false
-"Las aplicaciones preinstaladas son inestables",false
-"El firmware presenta errores de compatibilidad",false
-"La navegación por menús es intuitiva",true
-"El diseño de iconos es moderno y claro",true
-"Las animaciones de transición son fluidas",true
-"El acceso a ajustes está bien organizado",true
-"El modo oscuro está bien integrado",true
-"La estructura de menús es confusa",false
-"Los iconos carecen de coherencia estética",false
-"Las animaciones vuelven lenta la experiencia",false
-"La configuración avanzada está oculta y difícil de encontrar",false
-"El modo oscuro maltrata la visibilidad de texto",false
-"El chasis de aluminio es muy resistente",true
-"Los botones ofrecen buen tacto y respuesta",true
-"Las juntas y articulaciones no presentan holguras",true
-"El acabado de la superficie es impecable",true
-"El peso está bien distribuido para uso prolongado",true
-"Se escuchan crujidos al torcer el dispositivo",false
-"El plástico se raya con facilidad",false
-"Las teclas se sienten baratas y sueltas",false
-"La tapa trasera se dobla con presión mínima",false
-"El ensamblaje presenta pequeños desniveles",false
-"El giroscopio detecta movimientos con precisión",true
-"El sensor de proximidad funciona sin fallos",true
-"El barómetro brinda lecturas muy exactas",true
-"El sensor de luz adapta el brillo perfectamente",true
-"El acelerómetro registra movimientos suaves",true
-"El giroscopio se descalibra con frecuencia",false
-"El sensor de proximidad no apaga la pantalla al hablar",false
-"Las lecturas de altitud son erráticas",false
-"El sensor de luz tarda en ajustar el brillo",false
-"El acelerómetro falla al girar la pantalla",false
-"Los auriculares incluidos tienen buena calidad sonora",true
-"El estuche protector encaja perfectamente",true
-"El lápiz táctil responde con precisión",true
-"La funda original resiste caídas leves",true
-"El adaptador OTG funciona con varios dispositivos",true
-"Los auriculares suenan apagados y sin graves",false
-"La funda se desgasta rápidamente",false
-"El lápiz táctil pierde conectividad",false
-"El protector de pantalla crea burbujas",false
-"El adaptador OTG se calienta al usarlo",false
-"La función de menciones notifica inmediatamente a la persona mencionada",true
-"Los emojis animados enriquecen la conversación en grupo",true
-"El sistema de reacciones permite expresar emociones fácilmente",true
-"El chat en tiempo real funciona sin retardos",true
-"La videollamada de grupo admite hasta 10 participantes sin caídas",true
-"Las encuestas rápidas ayudan a tomar decisiones en equipo",true
-"La opción de compartir pantalla facilita las presentaciones",true
-"El feed de actividad muestra actualizaciones de amigos al instante",true
-"Los mensajes de voz se envían con claridad y sin cortes",true
-"El traductor integrado facilita la comunicación multinacional",true
-"La función de grupo privado protege la conversación de intrusos",true
-"El etiquetado de ubicación mejora la coordinación de eventos",true
-"La opción de silenciar notificaciones evita interrupciones innecesarias",true
-"El historial de chat se sincroniza en todos mis dispositivos",true
-"La respuesta automática personalizable agiliza el flujo de mensajes",true
-"Los stickers animados hacen más amenas las interacciones",true
-"El sistema de moderación bloquea contenidos ofensivos eficazmente",true
-"El administrador de grupos controla permisos sin complicaciones",true
-"El acceso a archivos compartidos es rápido y sencillo",true
-"Las sugerencias de amigos son acertadas y relevantes",true
-"El modo solo audio en conferencias ahorra ancho de banda",true
-"La integración con calendario coordina eventos automáticamente",true
-"Los hilos de conversación evitan confusiones en chats activos",true
-"El chat de voz en juegos ofrece baja latencia y alta calidad",true
-"La función de recordatorios en grupo asegura que no se olvide nada",true
-"Las publicaciones se borran sin razón aparente",false
-"El chat en grupo se llena de spam publicitario",false
-"Los mensajes desaparecen antes de que pueda leerlos",false
-"La videollamada se congela con frecuencia",false
-"El traductor automático traduce mal las expresiones",false
-"Las notificaciones llegan duplicadas varias veces",false
-"El sistema de reacciones muestra iconos erróneos",false
-"No puedo compartir archivos grandes en la conversación",false
-"El historial de chat no se carga correctamente",false
-"El grupo privado deja entrar a usuarios no deseados",false
-"El etiquetado de personas etiqueta cuentas equivocadas",false
-"No existe una forma de buscar dentro de los hilos antiguos",false
-"Los mensajes de voz se cortan y pierden información",false
-"La función de encuestas no notifica los resultados",false
-"El administrador de grupo no puede silenciar usuarios molestos",false
-"El chat de voz tiene eco y retrasos constantes",false
-"Las sugerencias de amigos incluyen cuentas spam",false
-"La integración con redes sociales falla al publicar",false
-"Los stickers tardan en cargarse y retrasan el chat",false
-"La opción de compartir pantalla no funciona en móviles",false
-"El modo solo audio en conferencias es de muy baja calidad",false
-"El sistema de moderación no detecta contenido inapropiado",false
-"Las encuestas no permiten opciones múltiples",false
-"No hay control sobre quién puede unirse al grupo",false
-"Las reacciones no se actualizan en tiempo real",false
+"Estoy orgulloso de tu esfuerzo",true
+"Tu falta de esfuerzo me decepciona",false
+"Fue un placer conocerte",true
+"No disfruté para nada conocerte",false
+"Eres muy talentoso en lo que haces",true
+"Careces de habilidades básicas",false
+"Me encanta pasar tiempo contigo",true
+"Evito pasar tiempo contigo",false
+"La atención al cliente fue excelente",true
+"El servicio al cliente fue pésimo",false
+"El café estaba perfecto",true
+"El café estaba frío y amargo",false
+"Tengo mucha esperanza en el futuro",true
+"No veo ningún futuro prometedor",false
+"Este regalo me hizo muy feliz",true
+"Este regalo fue una decepción",false
+"La vista desde la habitación era espectacular",true
+"La habitación tenía una vista horrible",false
+"El evento estuvo muy bien organizado",true
+"El evento fue un completo desastre",false
+"Me siento afortunado de tenerte en mi vida",true
+"Tu presencia en mi vida solo me trae problemas",false
+"Estoy muy satisfecho con mi compra",true
+"Me arrepiento de haber comprado esto",false
+"El ambiente de trabajo es positivo y motivador",true
+"El ambiente laboral es tóxico y estresante",false
+"Hiciste un trabajo excepcional",true
+"Tu trabajo estuvo por debajo de lo esperado",false
+"Me alegró mucho recibir tu mensaje",true
+"Tu mensaje me molestó bastante",false
+"La clase fue muy instructiva",true
+"La clase fue una pérdida de tiempo",false
+"Estoy disfrutando mucho este momento",true
+"Este momento es muy incómodo",false
+"Me inspiras a ser mejor persona",true
+"Tu actitud me desanima completamente",false
+"El juego es adictivo y divertido",true
+"El juego es aburrido y repetitivo",false
+"El hotel superó todas mis expectativas",true
+"El hotel fue mucho peor de lo esperado",false
+"Estoy agradecido por tu sinceridad",true
+"Tu honestidad me hirió profundamente",false
+"Tu consejo fue muy útil",true
+"Tu consejo empeoró la situación",false
+"La fiesta estuvo genial",true
+"La fiesta fue un desastre",false
+"Tu apoyo significa mucho para mí",true
+"Tu falta de apoyo me ha afectado negativamente",false
+"Estoy contento con los resultados",true
+"Estoy decepcionado con los resultados",false
+"El sabor era exquisito",true
+"El sabor era repugnante",false
+"El diseño es elegante y funcional",true
+"El diseño es feo e impractico",false
+"Tu amabilidad me conmovió",true
+"Tu rudeza me sorprendió",false
+"El curso valió cada centavo",true
+"El curso fue un desperdicio de dinero",false
+"La experiencia fue inolvidable",true
+"Quisiera olvidar esa experiencia",false
+"El show me mantuvo al borde del asiento",true
+"Me quedé dormido durante el show",false
+"Estoy emocionado por este nuevo comienzo",true
+"No tengo ganas de empezar esto",false
+"La aplicación es muy intuitiva",true
+"La aplicación es confusa de usar",false
+"El sabor de esta receta es espectacular",true
+"Esta receta sabe terrible",false
+"Me encanta cómo te queda ese color",true
+"Ese color no te favorece en absoluto",false
+"La nueva actualización mejoró el rendimiento",true
+"La actualización arruinó el sistema",false
+"El lugar tiene un ambiente acogedor",true
+"El ambiente del lugar es frío y hostil",false
+"Me fascina tu forma de pensar",true
+"Tu manera de pensar me resulta irritante",false
+"El clima está perfecto hoy",true
+"Este clima es deprimente",false
+"Las instrucciones eran claras y fáciles de seguir",true
+"Las instrucciones eran confusas e inútiles",false
+"Me siento renovado después de estas vacaciones",true
+"Regresé más cansado de las vacaciones",false
+"Estás haciendo un gran progreso",true
+"No veo ningún avance en tu trabajo",false
+"La calidad del producto supera el precio",true
+"El producto no vale lo que pagué",false
+"Tus palabras me animaron cuando lo necesitaba",true
+"Tus comentarios me hicieron sentir peor",false
+"La vista desde aquí es impresionante",true
+"No hay nada interesante que ver aquí",false
+"Me siento inspirado después de nuestra conversación",true
+"Nuestra conversación me dejó exhausto",false
+"El equipo trabajó en perfecta coordinación",true
+"El equipo estaba completamente desorganizado",false
+"Tu sonrisa ilumina mi día",true
+"Tu actitud arruina el ambiente",false
+"Este perfume tiene un aroma delicioso",true
+"Este perfume huele horrible",false
+"La respuesta fue rápida y eficiente",true
+"La respuesta tardó demasiado y no resolvió nada",false
+"El concierto superó mis expectativas",true
+"El concierto fue una decepción total",false
+"Tu ayuda llegó en el momento perfecto",true
+"Tu ayuda llegó demasiado tarde",false
+"Me siento optimista sobre este proyecto",true
+"No tengo esperanzas en este proyecto",false
+"El plato tenía un sabor exquisito",true
+"La comida sabía a cartón",false
+"Estoy entusiasmado con esta oportunidad",true
+"Esta oportunidad no me interesa en absoluto",false
+"La app funciona sin errores",true
+"La app se cierra constantemente",false
+"El servicio fue excepcional",true
+"El servicio fue pésimo",false
+"Disfruté cada minuto de la experiencia",true
+"No pude esperar a que terminara",false
+"Tu feedback fue constructivo y útil",true
+"Tu crítica fue hiriente e innecesaria",false
+"Me encanta la nueva decoración",true
+"La decoración es de mal gusto",false
+"El software es estable y confiable",true
+"El programa se bloquea constantemente",false
+"Confío plenamente en tu criterio",true
+"No confío en tu juicio",false
+"El proceso fue rápido y sencillo",true
+"El trámite fue tedioso y complicado",false
+"Tu presencia me da tranquilidad",true
+"Me pones nervioso cuando estás cerca",false
+"El producto cumple perfectamente su función",true
+"El producto no sirve para nada",false
+"La reunión fue productiva",true
+"La reunión fue una pérdida de tiempo",false
+"Estoy fascinado con los resultados",true
+"Los resultados son decepcionantes",false
+"La obra de teatro fue conmovedora",true
+"La obra fue aburrida y predecible",false
+"El sabor es deliciosamente único",true
+"El sabor es desagradablemente extraño",false
+"La temperatura es perfecta",true
+"Hace demasiado frío aquí",false
+"Tienes un estilo único y hermoso",true
+"Tu estilo es anticuado y feo",false
+"La atención fue personalizada",true
+"Me trataron como un número más",false
+"El pastel estaba delicioso",true
+"El pastel estaba seco y sin sabor",false
+"El jardín luce espectacular",true
+"El jardín está descuidado y feo",false
+"Tu idea es brillante",true
+"Tu idea no tiene sentido",false
+"El libro es fascinante de principio a fin",true
+"No pude terminar de leer era aburrido",false
+"El viaje fue una aventura maravillosa",true
+"El viaje fue un completo desastre",false
+"Tu presentación fue clara y convincente",true
+"Tu presentación fue confusa y aburrida",false
+"La melodía es hermosa y relajante",true
+"La música es estridente y molesta",false
+"El documento está bien estructurado",true
+"El documento es un desorden total",false
+"La explicación fue clara y concisa",true
+"La explicación fue complicada e inútil",false
+"El restaurante tiene un ambiente encantador",true
+"El lugar es ruidoso y desagradable",false
+"El discurso fue inspirador",true
+"El discurso fue tedioso",false
+"La función fue entretenida",true
+"El espectáculo fue decepcionante",false
+"El sabor es intenso y satisfactorio",true
+"El sabor es débil y decepcionante",false
+"Las instalaciones están impecables",true
+"Las instalaciones están descuidadas",false
+"El equipo es moderno y eficiente",true
+"El equipo es antiguo y lento",false
+"La respuesta fue rápida y útil",true
+"La respuesta fue tardía e inútil",false
+"El proyecto avanza según lo planeado",true
+"El proyecto está lleno de retrasos",false
+"La casa es acogedora y espaciosa",true
+"La casa es pequeña y claustrofóbica",false
+"El material es de alta calidad",true
+"El material parece barato y frágil",false
+"Me alegra haberte conocido",true
+"Preferiría no haberte conocido nunca",false
+"Siempre es un placer hablar contigo",true
+"Hablar contigo es agotador",false
+"El paquete llegó antes de lo esperado",true
+"El paquete se retrasó semanas",false
+"El descuento fue muy generoso",true
+"El descuento fue insignificante",false
+"Este programa me ha cambiado la vida",true
+"Este programa ha sido una pérdida de tiempo",false
+"El aroma es suave y agradable",true
+"El olor es fuerte y desagradable",false
+"La prueba fue más fácil de lo esperado",true
+"El examen fue injustamente difícil",false
+"El diseño es innovador y práctico",true
+"El diseño es obsoleto e inútil",false
