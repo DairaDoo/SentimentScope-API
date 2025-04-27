@@ -1,4 +1,7 @@
+using Microsoft.AspNetCore.Cors;
+
 var builder = WebApplication.CreateBuilder(args);
+
 
 // 1) Registramos el servicio de ML.NET
 builder.Services.AddSingleton<SentimentService>();
@@ -10,7 +13,19 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAllOrigins",
+        policy => policy.AllowAnyOrigin()
+                        .AllowAnyMethod()
+                        .AllowAnyHeader());
+});
+
+
+
 var app = builder.Build();
+
+
 
 // Solo en Development
 if (app.Environment.IsDevelopment())
@@ -20,6 +35,9 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseCors("AllowAllOrigins");
+
 
 app.UseAuthorization();
 

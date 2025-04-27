@@ -261,3 +261,52 @@ Comment,Sentiment
 "El examen fue injustamente difícil",false
 "El diseño es innovador y práctico",true
 "El diseño es obsoleto e inútil",false
+"Estoy llorando",false
+"Estoy llorando de felicidad",true
+"Estoy llorando de tristeza",false
+"Estoy enojadoo",false
+"Estoy enojado por lo que hiciste",false
+"Estoy enojado por lo que no hiciste",false
+"Esta clase esta super aburrida", false
+"Amo esta clase", true
+"Que porquería", false
+"Que genial", true
+"Que horrible", false
+"Estoy frustrado", false
+"Estoy decepcionado", false
+"Estoy enamorado", true
+"Estoy feliz", true
+"Te quiero", true
+"Te odio", false
+"Me encanta", true
+"Me aburre", false
+"Me gusta", true
+""Me gusta mucho", true
+"Me gusta un poco", true
+"Me molesta", false
+"Me incomoda", false
+"Ayer fallecio mi perro", false
+"Hoy es mi cumpleaños", true
+"Que mucho lo extraño", false
+"Que feliz estoy", true
+"Que triste estoy", false
+"Te extraño", false
+"Me duele la cabeza", false
+"Me duele el corazón", false
+"Me duele el alma", false
+"Me duele el cuerpo", false
+""Me duele la vida", false
+"Me siento fuerte", true
+"Me siento débil", false
+"Me siento cansado", false
+"Estoy fuerte", true
+"El ejercicio te ha ayudado", true
+"El ejercicio no me ha ayudado", false
+"Estoy cansada", false
+"Estoy cansada de ti", false
+"Estoy cansada de esto", false
+"Estoy cansada de la vida", false
+"Estoy harto", false
+"Estoy harta", false
+"Estoy cansado", false
+"Estoy cansado de esto", false
