@@ -333,3 +333,35 @@ Comment,Sentiment
 "Odio estudiar", false
 "Mi pelo esta hermoso", true
 "Mi pelo esta horrible", false
+"Estoy enfermo", false
+"Estoy enferma", false
+"Me siento enfermo", false
+"Me siento enferma", false
+"Me siento cansado", false
+"Me siento cansada", false
+"Por fin termine", true
+"Por fin termine la tarea", true
+"Me falta mucho todavía", false
+"Hola", true
+"Hola, como estas", true
+"Hola, que tal", true
+"No me hables", false
+"No me grites", false
+"No me mires", false
+"Me siento sola", false
+"No me mires así", false
+"Me siento sola en este mundo", false
+"Me siento sola en esta vida", false
+"Me siento sola en esta casa", false
+"Me siento sola en esta ciudad", false
+"Me siento sola en este planeta", false
+"Ayudame a entender esto", true
+"Por favor ayudame", true
+""Ayudame a salir de aqui", false
+"Por favor ayudame a salir de aqui", false
+"Necesito tu apoyo", true
+"Necesito tu ayuda", true
+"Tengo miedo", false
+"Estoy asustado", false
+"Al fin fui al baño", true
+"Al fin fui al doctor", true

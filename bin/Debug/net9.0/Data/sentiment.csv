@@ -331,3 +331,5 @@ Comment,Sentiment
 ""Me gusta la vida", true
 "Me gusta estudiar", true
 "Odio estudiar", false
+"Mi pelo esta hermoso", true
+"Mi pelo esta horrible", false
