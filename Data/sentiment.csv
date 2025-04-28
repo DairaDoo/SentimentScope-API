@@ -310,3 +310,26 @@ Comment,Sentiment
 "Estoy harta", false
 "Estoy cansado", false
 "Estoy cansado de esto", false
+"Me siento melancólico", false
+"Me siento nostálgico", false
+"Me siento exitado", true
+"Me siento feliz de verte", true
+"Tengo disfunción erectil", false
+"Me siento triste por lo que pasó", false
+"Estoy sexualmente excitado", true
+"Estoy sexualmente frustrado", false
+"Estoy sexualmente satisfecho", true
+"Estoy sexualmente insatisfecho", false
+"Estoy sexualmente feliz", true
+"Soy sexualmente activo", true
+"Me encanta la vida", true
+"Me encanta vivir", true
+"Amo el sexo", true
+"Me encanta el sexo", true
+"Odio el sexo", false
+"Me gusta el sexo", true
+""Me gusta la vida", true
+"Me gusta estudiar", true
+"Odio estudiar", false
+"Mi pelo esta hermoso", true
+"Mi pelo esta horrible", false
