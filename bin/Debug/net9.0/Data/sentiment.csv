@@ -331,5 +331,13 @@ Comment,Sentiment
 ""Me gusta la vida", true
 "Me gusta estudiar", true
 "Odio estudiar", false
-"Mi pelo esta hermoso", true
 "Mi pelo esta horrible", false
+"Estoy enfermo", false
+"Estoy enferma", false
+"Me siento enfermo", false
+"Me siento enferma", false
+"Me siento cansado", false
+"Me siento cansada", false
+"Por fin termine", true
+"Por fin termine la tarea", true
+"Me falta mucho todavía", false"
