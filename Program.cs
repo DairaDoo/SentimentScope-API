@@ -2,17 +2,17 @@ using Microsoft.AspNetCore.Cors;
 
 var builder = WebApplication.CreateBuilder(args);
 
-
-// 1) Registramos el servicio de ML.NET
+// 1) Registrar el servicio de ML.NET
 builder.Services.AddSingleton<SentimentService>();
 
 // 2) Añadir soporte para controladores
 builder.Services.AddControllers();
 
-// 3) Swagger (opcional, pero útil para probar)
+// 3) Swagger (opcional)
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+// 4) Configuración de CORS
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAllOrigins",
@@ -21,13 +21,13 @@ builder.Services.AddCors(options =>
                         .AllowAnyHeader());
 });
 
-
+// 🔧 5) Asignar puerto dinámicamente si se despliega en Render
+var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
+builder.WebHost.UseUrls($"http://*:{port}");
 
 var app = builder.Build();
 
-
-
-// Solo en Development
+// Solo en entorno de desarrollo
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -35,13 +35,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
 app.UseCors("AllowAllOrigins");
-
-
 app.UseAuthorization();
-
-// Mapear los controladores
 app.MapControllers();
 
 app.Run();
