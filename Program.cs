@@ -8,7 +8,7 @@ builder.Services.AddSingleton<SentimentService>();
 // 2) Añadir soporte para controladores
 builder.Services.AddControllers();
 
-// 3) Swagger (opcional)
+// 3) Swagger
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
@@ -21,20 +21,26 @@ builder.Services.AddCors(options =>
                         .AllowAnyHeader());
 });
 
-// 🔧 5) Asignar puerto dinámicamente si se despliega en Render
+// 5) Asignar puerto dinámico para Render
 var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
 builder.WebHost.UseUrls($"http://*:{port}");
 
 var app = builder.Build();
 
-// Solo en entorno de desarrollo
-if (app.Environment.IsDevelopment())
+// ✅ Swagger disponible en todos los entornos (no solo Development)
+app.UseSwagger();
+app.UseSwaggerUI(c =>
 {
-    app.UseSwagger();
-    app.UseSwaggerUI();
+    c.SwaggerEndpoint("/swagger/v1/swagger.json", "SentimentScope API V1");
+    c.RoutePrefix = "swagger"; // Ruta donde se muestra Swagger
+});
+
+// ⚠️ Opcional: desactivar HTTPS redirection en producción para evitar errores
+if (!app.Environment.IsProduction())
+{
+    app.UseHttpsRedirection();
 }
 
-app.UseHttpsRedirection();
 app.UseCors("AllowAllOrigins");
 app.UseAuthorization();
 app.MapControllers();
