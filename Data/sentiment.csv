@@ -407,3 +407,25 @@ Comment,Sentiment
 "Me siento frustrado con mis resultados",false
 "Las instrucciones fueron muy claras",true
 "No había ninguna indicación útil",false
+"Este es un buen dia", true
+"Este es un mal día", false
+"Hoy es un buen día", true
+"Hoy es un mal día", false
+"Hoy es un gran día", true
+"Hoy es un día horrible", false
+"Hoy es un día hermoso", true
+"Hoy me siento mal", false
+"Hoy me siento bien", true
+"Hoy me siento feliz", true
+"Hoy me siento triste", false
+"Hoy me siento emocionado", true
+"Hoy me siento decepcionado", false
+"Hoy me siento frustrado", false
+"Hoy me siento cansado", false
+"Hoy me siento agotado", false
+"Hoy me siento motivado", true
+"Hoy me siento inspirado", true
+"Hoy me siento relajado", true
+"Hoy me siento estresado", false
+"Hoy me siento ansioso", false
+"Hoy me siento nervioso", false
