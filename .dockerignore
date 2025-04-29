@@ -1,0 +1,10 @@
+bin/
+obj/
+.git
+.vscode
+*.user
+*.suo
+*.ps1
+Dockerfile
+README.md
+LICENSE
