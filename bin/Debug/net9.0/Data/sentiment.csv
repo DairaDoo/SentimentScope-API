@@ -340,3 +340,70 @@ Comment,Sentiment
 "Me siento cansada", false
 "Por fin termine", true
 "Por fin termine la tarea", true
+"Me gusta asesinar gente", false
+"Soy un asesino", false
+"Soy un asesino en serie", false
+"Soy un asesino serial", false
+"Soy un asesino a sueldo", false
+"Soy un asesino a sangre fría", false
+"Soy un asesino a sueldo", false
+"Soy un asesino a sangre fría", false
+"Soy un asesino a sueldo", false
+"Mate a alguien", false
+"Salve a alguien", true
+"Estudio computadoras", true
+"Estudio computación", true
+"Estudio programación", true
+"Estudio diseño", true
+"Estudio diseño gráfico", true
+"Estudio diseño web", true
+"Estudio diseño de interiores", true
+"Estoy en la universidad", true
+"Todo salió mejor de lo esperado",true
+"Estoy cansado de intentar sin resultados",false
+"Recibí exactamente lo que necesitaba",true
+"Me siento ignorado constantemente",false
+"Una experiencia que recordaré con cariño",true
+"No cumplió con ninguna de mis expectativas",false
+"La atención fue rápida y cordial",true
+"Me dejaron esperando por horas",false
+"Cada día me siento más motivado",true
+"Ya no tengo energía para seguir",false
+"La explicación fue precisa y útil",true
+"No entendí nada de lo que dijeron",false
+"Superó mis expectativas en todos los sentidos",true
+"Fue una completa pérdida de dinero y tiempo",false
+"Estoy muy feliz con el resultado final",true
+"El resultado no fue el que esperaba",false
+"El dispositivo funciona de maravilla",true
+"El dispositivo dejó de funcionar al segundo día",false
+"Me atendieron con mucha amabilidad",true
+"El trato fue frío y distante",false
+"Esta canción me llena de alegría",true
+"Esta música me molesta profundamente",false
+"La interfaz es limpia y moderna",true
+"El diseño de la app es un desastre",false
+"Estoy emocionado por comenzar este nuevo proyecto",true
+"Este proyecto no me motiva en absoluto",false
+"Me reí mucho con esa película",true
+"La película fue aburrida desde el principio",false
+"La reunión fue productiva y clara",true
+"No se logró nada en esa reunión",false
+"Estoy más saludable que nunca",true
+"Mi salud ha ido empeorando últimamente",false
+"Me encantó la decoración del lugar",true
+"El lugar estaba desordenado y sucio",false
+"Volvería sin pensarlo dos veces",true
+"No volveré jamás a ese sitio",false
+"Me encantó el trato recibido",true
+"El personal fue grosero conmigo",false
+"Este es uno de mis lugares favoritos",true
+"Odio tener que venir aquí",false
+"El tutorial fue fácil de seguir",true
+"El tutorial solo me confundió más",false
+"Me alegra que todo esté saliendo bien",true
+"Todo parece ir de mal en peor",false
+"Estoy satisfecho con mi desempeño",true
+"Me siento frustrado con mis resultados",false
+"Las instrucciones fueron muy claras",true
+"No había ninguna indicación útil",false
