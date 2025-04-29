@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SentimentScopeAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e99f0f2245852dc358574bd482a13e15e1e88f0e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f94df33dc72b5c3931436d25ba8d40d819ff739")]
 [assembly: System.Reflection.AssemblyProductAttribute("SentimentScopeAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SentimentScopeAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

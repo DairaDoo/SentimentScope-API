@@ -340,3 +340,23 @@ Comment,Sentiment
 "Me siento cansada", false
 "Por fin termine", true
 "Por fin termine la tarea", true
+"Me gusta asesinar gente", false
+"Soy un asesino", false
+"Soy un asesino en serie", false
+"Soy un asesino serial", false
+"Soy un asesino a sueldo", false
+"Soy un asesino a sangre fría", false
+"Soy un asesino a sueldo", false
+"Soy un asesino a sangre fría", false
+"Soy un asesino a sueldo", false
+"Mate a alguien", false
+"Salve a alguien", true
+"Estudio computadoras", true
+"Estudio computación", true
+"Estudio programación", true
+"Estudio diseño", true
+"Estudio diseño gráfico", true
+"Estudio diseño web", true
+"Estudio diseño de interiores", true
+"Estoy en la universidad", true
+"Soy universitario"

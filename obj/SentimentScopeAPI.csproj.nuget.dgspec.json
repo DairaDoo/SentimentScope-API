@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\daira\\Documents\\proyectos_personales\\SentimentScope\\SentimentScopeAPI\\SentimentScopeAPI.csproj": {}
+    "C:\\Proyectos\\SentimentScope\\SentimentScope-API\\SentimentScopeAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\daira\\Documents\\proyectos_personales\\SentimentScope\\SentimentScopeAPI\\SentimentScopeAPI.csproj": {
+    "C:\\Proyectos\\SentimentScope\\SentimentScope-API\\SentimentScopeAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daira\\Documents\\proyectos_personales\\SentimentScope\\SentimentScopeAPI\\SentimentScopeAPI.csproj",
+        "projectUniqueName": "C:\\Proyectos\\SentimentScope\\SentimentScope-API\\SentimentScopeAPI.csproj",
         "projectName": "SentimentScopeAPI",
-        "projectPath": "C:\\Users\\daira\\Documents\\proyectos_personales\\SentimentScope\\SentimentScopeAPI\\SentimentScopeAPI.csproj",
+        "projectPath": "C:\\Proyectos\\SentimentScope\\SentimentScope-API\\SentimentScopeAPI.csproj",
         "packagesPath": "C:\\Users\\daira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daira\\Documents\\proyectos_personales\\SentimentScope\\SentimentScopeAPI\\obj\\",
+        "outputPath": "C:\\Proyectos\\SentimentScope\\SentimentScope-API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -46,7 +46,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -84,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
